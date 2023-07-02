@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirstJavaProgram/FirstJavaProgram.iml" filepath="$PROJECT_DIR$/FirstJavaProgram/FirstJavaProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeneralUtilityPrograms/GeneralUtilityPrograms.iml" filepath="$PROJECT_DIR$/GeneralUtilityPrograms/GeneralUtilityPrograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture3Assignment/Lecture3Assignment.iml" filepath="$PROJECT_DIR$/Lecture3Assignment/Lecture3Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture3rd/Lecture3rd.iml" filepath="$PROJECT_DIR$/Lecture3rd/Lecture3rd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture4/Lecture4.iml" filepath="$PROJECT_DIR$/Lecture4/Lecture4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture4AssignmentSolution/Lecture4AssignmentSolution.iml" filepath="$PROJECT_DIR$/Lecture4AssignmentSolution/Lecture4AssignmentSolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LectureSixAssignmentSolution/LectureSixAssignmentSolution.iml" filepath="$PROJECT_DIR$/LectureSixAssignmentSolution/LectureSixAssignmentSolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+    </modules>
+  </component>
+</project>
