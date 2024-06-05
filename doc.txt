@@ -1,0 +1,80 @@
+No argument no return
+No argument with return
+with argument with return
+with argument no return
+
+
+
+===========Benifits of creating method=========
+1. Code Optimization
+2. Reusability 
+3. Maintainbility
+4. Readibility
+5. Debugging is easier
+6. Testing becomes easy
+7. Documentation can be created easily
+8. It allows for more flexibility in the future if needed
+9. Allows you to create functions that are used by multiple classes or objects
+
+
+COnstructor
+
+
+1 - class and method name is same
+2-  can be called using dot operator or as a function call
+3-  can take arguments which are passed to the constructor when an object is created
+4. constructor has not return type and nor static
+4-  can have a return type, if it returns anything then it must be returned in every path of the code 
+4-  can have a return type, if it returns anything then it must be returned at the end of the method else there will be compile
+4-  can have multiple constructors in java, but they should not have the same signature (data type and number of parameters)
+4-  can have a return type, if it returns any value then that value will be assigned to the variable through which we create the object
+4-  can have multiple constructors in java, but they should not have the same signature (data type and number of parameters)
+
+
+difference between method and constructor
+-------------------------------------------
+Method:
+    1. Methods belong to instances of a class while constructors don't. They are invoked on an instance of a class.
+    1. Methods are actions performed on objects of a class. They can perform tasks such as adding two numbers, displaying a message etc.
+    1. Methods belong to objects while constructors belong to instances of classes.
+    2. A method can be called on any instance of a class whereas a constructor can only be called during the creation of a new instance.
+    A method is invoked on an instance whereas a constructor is invoked on a class.
+    When we create an object from a class, JVM calls the constructor of that class first to initialize the memory allocated for that object. Once the
+    2. Methods can perform operations on data members of the class where as constructors initialize the data member values.
+    When we invoke a method, we need an instance but when we invoke a constructor, we don't necessarily need an instance.
+    2. Methods perform specific tasks related to an object (i.e., they modify the state of an object) whereas constructors initialize
+    2. Constructors cannot return any value but methods can.
+    3. If we don't provide a constructor in our own class, Java will automatically provide one for us.
+       The default constructor doesn’t take any parameters and does nothing.
+
+Constructor Syntax :
+   AccessModifier Name (parameter list) { // body }
+
+Example :
+class MyClass{
+    int x;
+    public MyClass(int val){
+        x = val;
+    }
+}
+
+Access Modifiers In Constructors :
+1. Public : Can be accessed from anywhere.
+2. Private : Only accessible within the class itself.
+3. Protected : Accessible within the package and subclasses.
+4. No modifier : Accessible only within the package.
+5. Default/Package : Accessible within the package and subclasses but not outside the package.
+6. Static : Not allowed in constructors because constructors are associated with each object creation
+and static members belongs to the class rather than the object.
+7. Final : Not allowed in constructors because once a final variable is initialized it cannot be changed.
+8. Synchronized : Used for synchronizing threads while initializing the object.
+9. Strictfp : Enforces strict accuracy in floating point calculations.
+
+
+Access Modifiers in short
+------------------------------
+Private - >within class only
+Protected -> within Class / within Package / outside package by sub class
+Default -> Class / Package / SubClass
+Public -> Everywhere
+No access modifier -> Class / Package</s>

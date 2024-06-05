@@ -1,0 +1,14 @@
+Subclass of output stream
+
+	1 FileOutputStream
+	2 ByteArrayOutputStream
+	3 ObjectOutputStream
+	4 BufferedOutputStream
+
+How to create an input stream?
+	//create an input stream
+	InputStream obj1=new FileInputStream();
+
+How to create 	ByteArrayInputStream?
+	ByteArrayInputStream input=new ByteArrayInputStream(byte[]arr, int start, int length);
+How to create 	ObjectOutputStream?

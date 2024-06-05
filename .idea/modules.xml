@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FirstJavaProgram/FirstJavaProgram.iml" filepath="$PROJECT_DIR$/FirstJavaProgram/FirstJavaProgram.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GeneralUtilityPrograms/GeneralUtilityPrograms.iml" filepath="$PROJECT_DIR$/GeneralUtilityPrograms/GeneralUtilityPrograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/Abstract/Abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lecture3Assignment/Lecture3Assignment.iml" filepath="$PROJECT_DIR$/Lecture3Assignment/Lecture3Assignment.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lecture3rd/Lecture3rd.iml" filepath="$PROJECT_DIR$/Lecture3rd/Lecture3rd.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lecture4/Lecture4.iml" filepath="$PROJECT_DIR$/Lecture4/Lecture4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lecture4AssignmentSolution/Lecture4AssignmentSolution.iml" filepath="$PROJECT_DIR$/Lecture4AssignmentSolution/Lecture4AssignmentSolution.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LectureSixAssignmentSolution/LectureSixAssignmentSolution.iml" filepath="$PROJECT_DIR$/LectureSixAssignmentSolution/LectureSixAssignmentSolution.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practical all questions/Practical all questions.iml" filepath="$PROJECT_DIR$/Practical all questions/Practical all questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book/book.iml" filepath="$PROJECT_DIR$/book/book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final keyword/final keyword.iml" filepath="$PROJECT_DIR$/final keyword/final keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variables/variables.iml" filepath="$PROJECT_DIR$/variables/variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vehicle/vehicle.iml" filepath="$PROJECT_DIR$/vehicle/vehicle.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,4 @@
+What is java?
+=>  Java is a Programming languageand it is a platform independent(WORA). It is based on our day-to-day life.
+
+

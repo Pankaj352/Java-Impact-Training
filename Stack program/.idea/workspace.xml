@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="006ae1a7-fcc6-4c80-b828-5e4a07b1b250" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Basic Program/src/Access_Specifier_77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic Program/src/ArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic Program/src/Bill_discount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic Program/src/Bill_discount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic Program/src/Country_code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic Program/src/FindSquareRootOfANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic Program/src/LabelledLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic Program/src/PrintNumberInString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic Program/src/PrintNumberInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic Program/src/Scanner_demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic Program/src/Squareroot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic Program/src/doWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic Program/src/forEachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basic Program/src/whileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/src/calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckEvenOrOdd/CheckEvenOrOdd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class_Object_Demo/Class_Object_Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class_Object_Demo/classObjectDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Command_Line_Arguments/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Command_Line_Arguments/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Command_Line_Arguments/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Command_Line_Arguments/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Command_Line_Arguments/Command_Line_Arguments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EvenAndOdd/EvenAndOdd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factorial/Factorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GeneralUtilityPrograms/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Grade/src/grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lamp/Lamp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/src/BitwiseOPerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/src/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/src/ToCheckArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/src/Typecasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/src/controlStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/src/patternOppositeTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/src/swapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/src/swappingWithoutUsingThirdVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/src/switchOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern_lecture_9/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern_lecture_9/Pattern_lecture_9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern_lecture_9/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern_lecture_9/src/OppositeTrangularPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern_lecture_9/src/OppositeTrianglePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern_lecture_9/src/PalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern_lecture_9/src/PyramidPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern_lecture_9/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern_lecture_9/src/diagonalPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern_lecture_9/src/precedenceOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern_lecture_9/src/rectangularPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern_lecture_9/src/triangularPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Using Reader class/Using Reader class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Variables/Variables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Variables/src/FIbbonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Variables/src/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Variables/src/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Variables/src/PyramidPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Variables/src/StringUpperCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Variables/src/palindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Variables/src/palindromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Variables/src/patternRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Variables/src/primeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Working program with FastReader/Working program with FastReader.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Working program with FastReader/src/javachar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning Java Basics/learning Java Basics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning Java Basics/src/ReadSomeValueFromScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiClasses/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiClasses/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiClasses/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiClasses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiClasses/multiClasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiClasses/src/secondClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic Program/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Basic Program/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneralUtilityPrograms/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GeneralUtilityPrograms/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2VxtOALR5kzWTJvhdYOLIW3y7Ho" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "onboarding.tips.debug.path": "C:/Users/panka/IdeaProjects/Stack program/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="006ae1a7-fcc6-4c80-b828-5e4a07b1b250" name="Changes" comment="" />
+      <created>1695789526379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695789526379</updated>
+    </task>
+    <servers />
+  </component>
+</project>
